@@ -9,6 +9,6 @@ if you're using this in shimmer legacy, use the wifi payload and run
 wget https://raw.githubusercontent.com/Bromine35/vpdbackup/main/vpdbackup.sh && sudo bash vpdbackup.sh
 ```
 
-, if you're running this in ChromeOS (dev mode) just download the script, move to /usr/local/ and run it.
+if you're running this in ChromeOS (dev mode) just download the script, move to /usr/local/ and run it.
 
 \- doxr
